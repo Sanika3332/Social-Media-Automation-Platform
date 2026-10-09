@@ -1,8 +1,18 @@
 # 🌟 Walstar — Social Media Automation Platform
+> Built as an industry project during my Python Developer internship at Walstar Technologies.
 
 > A full-stack Django platform that lets a **Super Admin** publish posts across Facebook, Instagram, and LinkedIn, and pays **Affiliates** for engaging with those posts through a verified rewards system.
 
----
+## 🛠 Tech Stack
+Python, Django, Django REST Framework, PostgreSQL, n8n, Apify, Cloudinary, RazorpayX, PayPal, OAuth 2.0 (Facebook / Instagram / LinkedIn), Git
+
+## 👩‍💻 My Contributions
+- Owned and completed the platform end to end: backend, dashboards, integrations, and deployment.
+- Built n8n workflows for automated multi-platform publishing to Facebook, Instagram, and LinkedIn.
+- Integrated social platform APIs and OAuth for authentication and post analytics.
+- Implemented the affiliate reward system: per-action payouts, withdrawal requests, admin approval, and RazorpayX auto-payout.
+- Built engagement verification using Apify scraping to confirm real likes, comments, and shares before rewards are approved.
+- Designed the PostgreSQL schema and the Super Admin and Affiliate dashboards with role-based access.
 
 ## ✨ Features
 
